@@ -2,6 +2,7 @@
 A wrap up script to auto perform nmap scan from the result of dnsrecon, then output result with filename as hostname and ip
 
 Example:
+```
 cat subdomain
 [*] 	 A db.abc.net 104.16.94.3
 [*] 	 A voip.abc.net 198.144.179.1
